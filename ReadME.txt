@@ -32,7 +32,7 @@ Structure:
 
 - Support:
       Screenshots.cs
-	   It generate screenshot after each action
+	   It generate screenshot after each action.
 
 - Drivers:
       Webdriver.cs
