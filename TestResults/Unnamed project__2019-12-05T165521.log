@@ -1,0 +1,182 @@
+﻿2019-12-05T16:55:21.2448866+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-05T16:55:21.2448866+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.37 in Framework clr40 in x86 mode execution started
+2019-12-05T16:55:21.2448866+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-05T16:55:21.2988871+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\bin\Debug\TestAssignmentPeach.dll
+2019-12-05T16:55:21.2988871+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults" (default)
+2019-12-05T16:55:21.2988871+05:30;VSTestExecutionThread;Info;Profile: 
+2019-12-05T16:55:21.3229218+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\Unnamed project__2019-12-05T165521.log
+2019-12-05T16:55:21.3318864+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-05T16:55:21.3368858+05:30;Thread#12;Info;Checking license
+2019-12-05T16:55:21.3499839+05:30;Thread#12;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)
+2019-12-05T16:55:30.3508879+05:30;Thread#12;Info;Evaluation delay finished.
+2019-12-05T16:55:30.3648908+05:30;Thread#12;Info;License check completed
+2019-12-05T16:55:30.3658914+05:30;Thread#12;Info;starting test run
+2019-12-05T16:55:30.3849201+05:30;Thread#12;Info;Discovering target: Default
+2019-12-05T16:55:30.3849201+05:30;Thread#12;Info;Discovering tests from assembly: C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\bin\Debug\TestAssignmentPeach.dll
+2019-12-05T16:55:30.4689313+05:30;Thread#12;Info;Discovered tests from assembly: C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\bin\Debug\TestAssignmentPeach.dll
+2019-12-05T16:55:30.4699541+05:30:Test Suite Dump
+2019-12-05T16:55:30.4719320+05:30:#0: Unnamed project/ - 
+2019-12-05T16:55:30.4719320+05:30:#1: Default - 
+2019-12-05T16:55:30.4719320+05:30:#2: TestAssignmentPeach - 
+2019-12-05T16:55:30.4719320+05:30:#3: AcceptanceTests - 
+2019-12-05T16:55:30.4872101+05:30:#4: Login failure - TestAssembly:TestAssignmentPeach/Feature:AcceptanceTests/Scenario:Login+failure
+2019-12-05T16:55:30.4872101+05:30:#5: Login success - TestAssembly:TestAssignmentPeach/Feature:AcceptanceTests/Scenario:Login+success
+2019-12-05T16:55:30.4872101+05:30:#6: Alert - JS Confirm - TestAssembly:TestAssignmentPeach/Feature:AcceptanceTests/Scenario:Alert+-+JS+Confirm
+2019-12-05T16:55:30.4872101+05:30:#7: Text Verification - TestAssembly:TestAssignmentPeach/Feature:AcceptanceTests/Scenario:Text+Verification
+2019-12-05T16:55:30.4872101+05:30:#8: File upload - TestAssembly:TestAssignmentPeach/Feature:AcceptanceTests/Scenario:File+upload
+2019-12-05T16:55:30.4872101+05:30:#9: Accessing iFrame - TestAssembly:TestAssignmentPeach/Feature:AcceptanceTests/Scenario:Accessing+iFrame
+2019-12-05T16:55:30.4879316+05:30:End: Test Suite Dump
+2019-12-05T16:55:30.5042167+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-05T16:55:30.5072286+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-12-05T16:55:30.5102240+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-12-05T16:55:30.5192250+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-05T16:55:30.5207534+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-12-05T16:55:30.5207534+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-12-05T16:55:30.5207534+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-12-05T16:55:30.5222252+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-12-05T16:55:30.5252242+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-05T16:55:30.5292263+05:30:Thread #0: creating new test thread executor for TestAssignmentPeach, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-05T16:55:30.5364310+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-05T16:55:30.5392246+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-05T16:55:30.5422251+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-05T16:55:30.8158908+05:30:Thread#0:T:-> Loading plugin C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-05T16:55:30.8268865+05:30:Thread#0:T:-> Using default config
+2019-12-05T16:55:31.2982575+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-12-05T16:55:31.3222082+05:30:Thread#0:B:Given ​user on ​login page
+2019-12-05T16:55:56.2187435+05:30:Thread#0:T:done: Browser.GivenUserOn("​login") (24.8s)
+2019-12-05T16:55:56.7402877+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmpF762.jpg ]SCREENSHOT
+2019-12-05T16:55:56.7412102+05:30:Thread#0:B:When ​user clicks on the Login button
+2019-12-05T16:56:02.7309181+05:30:Thread#0:T:done: Login.WhenUserClicksOnTheLoginButton() (6.0s)
+2019-12-05T16:56:03.1937695+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp10B8.jpg ]SCREENSHOT
+2019-12-05T16:56:03.1948335+05:30:Thread#0:B:Then ​an error message stated Your username is invalid! appear
+2019-12-05T16:56:03.2778310+05:30:Thread#0:T:done: Login.ThenAnErrorMessageStatedYourUsernameIsInvalidAppear("Your username is ...") (0.1s)
+2019-12-05T16:56:03.7304430+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp12CC.jpg ]SCREENSHOT
+2019-12-05T16:56:03.7533524+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-05T16:56:03.7533524+05:30:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-12-05T16:56:03.7533524+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-12-05T16:56:03.7533524+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-05T16:56:03.7533524+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-12-05T16:56:03.7533524+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-12-05T16:56:03.7533524+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-12-05T16:56:03.7533524+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-12-05T16:56:03.7533524+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-05T16:56:08.1787481+05:30:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 36.8792053 seconds
+2019-12-05T16:56:08.1817486+05:30:Thread#0: Test #5/0 is started on thread #0
+2019-12-05T16:56:08.1837475+05:30:Thread#0:B:Given ​user on ​login page
+2019-12-05T16:56:41.5327983+05:30:Thread#0:T:done: Browser.GivenUserOn("​login") (33.3s)
+2019-12-05T16:56:41.9815980+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmpA847.jpg ]SCREENSHOT
+2019-12-05T16:56:41.9844765+05:30:Thread#0:B:When ​user fill in username tomsmith, password SuperSecretPassword! and clicks on Login button
+2019-12-05T16:56:43.1217846+05:30:Thread#0:T:done: Login.WhenUserFillInUsernamePasswordAndClicksOnLoginButton("tomsmith", "SuperSecretPassword!") (1.1s)
+2019-12-05T16:56:43.5030187+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmpAE43.jpg ]SCREENSHOT
+2019-12-05T16:56:43.5040176+05:30:Thread#0:B:Then ​a successful message stated You logged into a secure area! appear
+2019-12-05T16:56:43.5593147+05:30:Thread#0:T:done: Login.ThenASuccessfulMessageStatedYouLoggedIntoASecureAreaAppear("You logged into a...") (0.1s)
+2019-12-05T16:56:43.9697653+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmpB019.jpg ]SCREENSHOT
+2019-12-05T16:56:43.9728220+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-05T16:56:43.9728220+05:30:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-12-05T16:56:43.9728220+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-12-05T16:56:43.9728220+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-05T16:56:43.9728220+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-12-05T16:56:43.9728220+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-12-05T16:56:43.9728220+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-12-05T16:56:43.9728220+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-12-05T16:56:43.9728220+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-05T16:56:48.2750395+05:30:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 40.0932909 seconds
+2019-12-05T16:56:48.2770391+05:30:Thread#0: Test #6/0 is started on thread #0
+2019-12-05T16:56:48.2821565+05:30:Thread#0:B:Given ​user on ​javascript_alerts page
+2019-12-05T16:57:35.8038781+05:30:Thread#0:T:done: Browser.GivenUserOn("​javascript_alerts") (47.5s)
+2019-12-05T16:57:36.2821795+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp7C72.jpg ]SCREENSHOT
+2019-12-05T16:57:36.2851796+05:30:Thread#0:B:When user clicks on Click for JS Confirm button and select OK
+2019-12-05T16:57:36.4067458+05:30:Thread#0:T:done: JSAlert.WhenUserClicksOnClickForJSConfirmButtonAndSelectOK_() (0.1s)
+2019-12-05T16:57:36.9077502+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp7EE4.jpg ]SCREENSHOT
+2019-12-05T16:57:36.9087483+05:30:Thread#0:B:Then result showing You clicked: Ok
+2019-12-05T16:57:36.9431221+05:30:Thread#0:T:done: JSAlert.ThenResultShowingMessage("You clicked: Ok") (0.0s)
+2019-12-05T16:57:37.3538786+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp80AA.jpg ]SCREENSHOT
+2019-12-05T16:57:37.3558867+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-05T16:57:37.3558867+05:30:Thread#:Scheduler: testitem #7 from normal test queue 
+2019-12-05T16:57:37.3558867+05:30:Thread#0:Scheduler: considering testitem #7 for thread 0
+2019-12-05T16:57:37.3558867+05:30:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-05T16:57:37.3558867+05:30:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2019-12-05T16:57:37.3558867+05:30:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2019-12-05T16:57:37.3558867+05:30:Thread#0:Scheduler: using testitem #7 for thread 0
+2019-12-05T16:57:37.3558867+05:30:Thread#0:Scheduler: Test #7 is scheduled for thread
+2019-12-05T16:57:37.3558867+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-05T16:57:41.6501581+05:30:Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 53.373119 seconds
+2019-12-05T16:57:41.6551647+05:30:Thread#0: Test #7/0 is started on thread #0
+2019-12-05T16:57:41.6601600+05:30:Thread#0:B:Given ​user on ​javascript_alerts page
+2019-12-05T16:58:24.3949184+05:30:Thread#0:T:done: Browser.GivenUserOn("​javascript_alerts") (42.7s)
+2019-12-05T16:58:24.8428163+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp3A18.jpg ]SCREENSHOT
+2019-12-05T16:58:24.8439680+05:30:Thread#0:B:When user clicks on Click for JS Prompt button
+2019-12-05T16:58:24.8448169+05:30:Thread#0:T:done: JSAlert.WhenUserClicksOnClickForJSPromptButton() (0.0s)
+2019-12-05T16:58:25.2504338+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp3BBF.jpg ]SCREENSHOT
+2019-12-05T16:58:25.2514350+05:30:Thread#0:B:And user enters the test Test JS Prompt and clicks Cancel
+2019-12-05T16:58:25.3305392+05:30:Thread#0:T:done: JSAlert.WhenentertextAndClickCancel("Test JS Prompt") (0.1s)
+2019-12-05T16:58:25.8085277+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp3DE3.jpg ]SCREENSHOT
+2019-12-05T16:58:25.8085277+05:30:Thread#0:B:Then result showing You entered: null
+2019-12-05T16:58:25.8425724+05:30:Thread#0:T:done: JSAlert.ThenResultShowingMessage("You entered: null") (0.0s)
+2019-12-05T16:58:26.2377228+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp3F99.jpg ]SCREENSHOT
+2019-12-05T16:58:26.2387546+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-05T16:58:26.2387546+05:30:Thread#:Scheduler: testitem #8 from normal test queue 
+2019-12-05T16:58:26.2387546+05:30:Thread#0:Scheduler: considering testitem #8 for thread 0
+2019-12-05T16:58:26.2387546+05:30:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-05T16:58:26.2387546+05:30:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2019-12-05T16:58:26.2387546+05:30:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2019-12-05T16:58:26.2387546+05:30:Thread#0:Scheduler: using testitem #8 for thread 0
+2019-12-05T16:58:26.2387546+05:30:Thread#0:Scheduler: Test #8 is scheduled for thread
+2019-12-05T16:58:26.2387546+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-05T16:58:30.5602949+05:30:Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 48.9051302 seconds
+2019-12-05T16:58:30.5615846+05:30:Thread#0: Test #8/0 is started on thread #0
+2019-12-05T16:58:30.5642610+05:30:Thread#0:B:Given ​user on ​upload page
+2019-12-05T16:59:34.0579045+05:30:Thread#0:T:done: Browser.GivenUserOn("​upload") (63.5s)
+2019-12-05T16:59:47.8248208+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp7E44.jpg ]SCREENSHOT
+2019-12-05T16:59:47.8260720+05:30:Thread#0:B:When user upload a file named as burrito.jpg and clicks Upload
+2019-12-05T16:59:49.5549957+05:30:Thread#0:T:done: FileUpload.WhenUserUploadAFileNamedAsBurrito_JpgAndClicksUpload("burrito.jpg") (1.7s)
+2019-12-05T16:59:49.9892685+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp86C1.jpg ]SCREENSHOT
+2019-12-05T16:59:49.9892685+05:30:Thread#0:B:Then next screen should show File Uploaded! as title and filename burrito.jpg
+2019-12-05T16:59:50.0722662+05:30:Thread#0:T:done: FileUpload.ThenNextScreenShouldShowFileUploadedAsTitleAndFilenameJpg("File Uploaded!", "burrito.jpg") (0.1s)
+2019-12-05T16:59:50.4488049+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp8897.jpg ]SCREENSHOT
+2019-12-05T16:59:50.4499281+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-05T16:59:50.4499281+05:30:Thread#:Scheduler: testitem #9 from normal test queue 
+2019-12-05T16:59:50.4499281+05:30:Thread#0:Scheduler: considering testitem #9 for thread 0
+2019-12-05T16:59:50.4499281+05:30:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-05T16:59:50.4499281+05:30:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2019-12-05T16:59:50.4499281+05:30:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2019-12-05T16:59:50.4499281+05:30:Thread#0:Scheduler: using testitem #9 for thread 0
+2019-12-05T16:59:50.4499281+05:30:Thread#0:Scheduler: Test #9 is scheduled for thread
+2019-12-05T16:59:50.4499281+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-05T16:59:54.7692090+05:30:Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 84.2076244 seconds
+2019-12-05T16:59:54.7712011+05:30:Thread#0: Test #9/0 is started on thread #0
+2019-12-05T16:59:54.7752014+05:30:Thread#0:B:Given ​user on ​iframe page
+2019-12-05T17:00:23.9854252+05:30:Thread#0:T:done: Browser.GivenUserOn("​iframe") (29.2s)
+2019-12-05T17:00:24.5542407+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmpDC6.jpg ]SCREENSHOT
+2019-12-05T17:00:24.5552439+05:30:Thread#0:B:When user type I love pizza in the text box
+2019-12-05T17:00:24.7542435+05:30:Thread#0:T:done: IFrame.WhenUserTypeILovePizzaInTheTextBox("I love pizza") (0.2s)
+2019-12-05T17:00:25.1858211+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp1038.jpg ]SCREENSHOT
+2019-12-05T17:00:25.1868207+05:30:Thread#0:B:Then textbox shows I love pizza
+2019-12-05T17:00:25.2157452+05:30:Thread#0:T:done: IFrame.ThenTextboxShowsILovePizza("I love pizza") (0.0s)
+2019-12-05T17:00:25.5787080+05:30:Thread#0:T:SCREENSHOT[ file:///C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\tmp11CF.jpg ]SCREENSHOT
+2019-12-05T17:00:25.5807082+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-12-05T17:00:25.5807082+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-05T17:00:25.5807082+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-05T17:00:25.5807082+05:30:Thread#0:Scheduler: No more tests for thread
+2019-12-05T17:00:29.9141192+05:30:Thread#0: Test #9/0 is finished on thread #0 as Succeeded within 35.1429181 seconds
+2019-12-05T17:00:29.9429809+05:30:Trying to cancel thread
+2019-12-05T17:00:29.9429809+05:30:Thread cancelled
+2019-12-05T17:00:29.9490055+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-12-05T17:00:29.9490055+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-12-05T17:00:29.9490055+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-05T17:00:29.9509759+05:30;Thread#12;Info;test run finished
+2019-12-05T17:00:29.9509759+05:30;Thread#12;Info;publishing test results
+2019-12-05T17:00:29.9810072+05:30;Thread#12;Info;test results published
+2019-12-05T17:00:29.9820075+05:30;Thread#12;Info;generating reports
+2019-12-05T17:00:30.0603981+05:30;Thread#12;Info;Starting external report generation process
+2019-12-05T17:00:31.2468098+05:30;Thread#12;Info;Successfully generated reports.
+2019-12-05T17:00:31.2482604+05:30;Thread#12;Info;Successfully generated reports
+2019-12-05T17:00:31.2562589+05:30:Total: 6
+2019-12-05T17:00:31.2572574+05:30:Succeeded: 6
+2019-12-05T17:00:31.2572574+05:30:Ignored: 0
+2019-12-05T17:00:31.2583017+05:30:Pending: 0
+2019-12-05T17:00:31.2583017+05:30:Skipped: 0
+2019-12-05T17:00:31.2583017+05:30:Failed: 0
+2019-12-05T17:00:31.2670379+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-12-05T17:00:31.2672611+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\gagandeepmah\Desktop\pics Gurtaj\TestAssignmentPeach\TestResults\Unnamed project__2019-12-05T165521.html'
+========== End of log file ==========
