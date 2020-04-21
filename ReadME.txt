@@ -1,4 +1,4 @@
-﻿Technology stack used:
+﻿Technology stack used:-
 *********************
 1. Langauge: C#
 2. Selenium Webdriver
