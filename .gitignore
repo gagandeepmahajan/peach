@@ -1,0 +1,55 @@
+# Ignore Visual Studio files
+.vscode/
+.vs/
+*.suo
+*.user
+*.suo
+*.userprefs
+*.bak
+Thumbs.db
+
+# Ignore ReSharper files
+_ReSharper*/
+
+# Ignore Rider files
+.idea/
+
+# Ignore NuGet packages
+*.nuget/
+packages/
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore Visual Studio project user options (e.g., .csproj.user)
+*.user
+
+# Ignore build artifacts, DLLs, and generated files
+*.dll
+*.exe
+*.pdb
+*.log
+*.config
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore Selenium WebDriver binaries (assuming you're using NuGet)
+WebDriver/
+
+# Ignore Visual Studio Code directory
+.vscode/
+
+# Ignore Windows image file caches and logs
+Thumbs.db
+Desktop.ini
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sdf
+*.opensdf
+*.scc
